@@ -1,7 +1,0 @@
-.nav-item{margin-right:10px;padding:3px;font-size:15px;margin-left: 13px;}
-.nav-item:hover{background-color: blue;padding: 15px;border-bottom:3px solid White}
-.nav{float:right;display: block;width:200px; margin-bottom: -8px;}
-ion-title{font-size:30px;display: block;width: 50%;}
-ion-header{background-color: White; color:Blue;display: block;width: 50%;}
-ion-list{display: block;position: relative;bottom: 42px;background-color: White;margin-bottom: -42px;}
-
