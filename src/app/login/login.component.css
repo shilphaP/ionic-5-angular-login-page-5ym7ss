@@ -1,0 +1,31 @@
+.item {
+  width: 230px;
+}
+.main {
+  display: block;
+  width: 40%;
+  margin: 0 auto;
+  padding: 10px;
+  margin-top: 20px;
+}
+.inp {
+  background-color: gold;
+  border-radius: 12px;
+  margin-bottom: 15px;
+}
+body {
+  font-family: monospace;
+}
+.reg {
+  color: rgb(8, 87, 8);
+  font-size: 15px;
+  font-weight: 400;
+}
+.reg:hover {
+  cursor: pointer;
+  font-size: 17px;
+}
+.bottom-link {
+  font-size: 10px;
+  font-style: italic;
+}

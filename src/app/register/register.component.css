@@ -1,0 +1,7 @@
+.item{width:230px}
+.main{background-color: blue;display: block;width: 40%;margin: 0 auto;padding:10px;border-bottom: 8px solid;margin-top: 20px;}
+.inp{background-color: gold;border-radius: 12px; margin-bottom: 15px;}
+body{font-family: monospace;}
+.reg{color:rgb(4, 92, 4);font-size:15px; font-weight: 400;}
+.reg:hover{cursor:pointer;font-size:17px}
+.bottom-link{font-size: 10px;font-style: italic;}
